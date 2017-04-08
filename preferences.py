@@ -1,4 +1,4 @@
-save_file = '/Users/jamin/PycharmProjects/XWINGCampaign/campaigns'
+save_file = 'campaigns'
 
 rules = {'initial_points': 5,
          'max_points': 5,
